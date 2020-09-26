@@ -1,0 +1,108 @@
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+    }
+
+#main {
+  background-color: #E8E8E8;
+  margin: 30px 8px 30px 8px;
+  border-radius: 4px;
+  color: #162129;
+}
+
+#title {
+  font-family: "Varela";
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 40px;
+  margin: 5px;
+}
+
+#title-description {
+  font-family: "Varela";
+  font-size: 16px;
+  text-align: center;
+  color: #162129;
+}
+
+#title-section {
+    width: fit-content;
+    padding-top: 50px;
+    padding-bottom: : 0px;
+    margin: 0px auto;
+    align-items: center;
+}
+
+#img-div {
+  background-color: white;
+  margin:10px;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+
+#img-caption {
+  font-family: "Varela";
+  font-size: 15px;
+  display: block;
+  padding: 5px;
+  text-align: center;
+}
+
+#info-div {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#info-header {
+    font-family: "Varela";
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+ul {
+  font-family: "Montserrat";
+  font-weight: 800;
+  color: #162129;
+  line-height: 20px;
+}
+
+li {
+  font-size: 15px;
+  margin: 10px auto;
+  padding-left: 5px;
+}
+
+blockquote {
+  margin-top: 40px;
+  font-family: 'Lora';
+  font-size: 15px;
+}
+
+blockquote > footer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#closer {
+  font-family: "Varela";
+  font-size: 15px;
+  font-weight: bold;
+  width: fit-content;
+  margin: 0 auto;
+  padding: 0 10px 10px 10px;
+  text-align:  center;
+}
